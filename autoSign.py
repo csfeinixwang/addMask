@@ -3,7 +3,7 @@ from selenium import webdriver
 import time
 from readCsv import read_csv
 from recogQR import decode_qr_code
-from todaySchool import todaySubmit
+
 
 #学校编码
 url=decode_qr_code()
@@ -87,17 +87,6 @@ time.sleep(3)
 # url2="http://ehall.hnuahe.edu.cn/new/index.html?browser=no"
 
 #今日校园填报
-todaySubmit()
+# from todaySchool import todaySubmit
+# todaySubmit()
 
-# driver.get(url2)
-#
-# driver.find_element_by_xpath("/html[@class=' ieundefined']/body/div[@id='ampEhallBody']/article[@id='ampLoginInArticle']/article[@id='ampLoginArticle']/div[@id='ampLoginRoleNav']/div[@id='ampHasNoLogin']").click()
-#
-# time.sleep(1)
-# driver.find_element('id','username').send_keys('81908')
-# driver.find_element('id','password').send_keys('102014')
-#
-# driver.find_element_by_xpath("/html/body/div[@class='auth_page_wrapper']/div[@class='auth_login_content']/div[@class='auth_login_right']/div[@class='auth_tab']/div[@class='auth_tab_content']/div[@class='auth_tab_content_item']/form[@id='casLoginForm']/p[5]/button[@class='auth_login_btn primary full_width']").click()
-# url3="http://ehall.hnuahe.edu.cn/qljfwapp/sys/lwReportEpidemic/index.do?amp_sec_version_=1&gid_=eVA5WE5VV3hWU3h3UUZOUXhnQkJTcEQ0ZjJvdUJoZU11SEVKMUxsWXdSMjZwd1FYdjNiQXRoNlhQdHplOUJKZnZqdHlnUCtSVzdYanZ3ZFhkVGw2YlE9PQ&EMAP_LANG=zh&THEME=indigo"
-#
-# driver.get(url3)
