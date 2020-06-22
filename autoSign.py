@@ -56,7 +56,9 @@ driver.find_element('name','idCard').send_keys(idCard)
 time.sleep(2)
 # 确认进入第二次的填报
 # ul4=driver.find_element_by_xpath('/html/body/div[1]/form/div[3]/div/div/div/button').click()
-ul4=driver.find_element_by_xpath("/html[@class='pixel-ratio-2 retina']/body/div[@class='container my-content']/form[@id='my-form']/div[@class='form-group'][5]/div[@class='col-sm-offset-2 col-sm-10']/div[@class='row']/div[@class='col-lg-12 col-md-12 col-sm-12 col-xs-12']/button[@class='btn btn-primary']").click()
+# ul4=driver.find_element_by_xpath("/html[@class='pixel-ratio-2 retina']/body/div[@class='container my-content']/form[@id='my-form']/div[@class='form-group'][5]/div[@class='col-sm-offset-2 col-sm-10']/div[@class='row']/div[@class='col-lg-12 col-md-12 col-sm-12 col-xs-12']/button[@class='btn btn-primary']").click()
+driver.find_element_by_class_name('btn-primary').click()
+
 time.sleep(4)
 driver.find_element_by_xpath('/html/body/ul/li[1]/span').click()
 time.sleep(2)
@@ -87,6 +89,6 @@ time.sleep(3)
 # url2="http://ehall.hnuahe.edu.cn/new/index.html?browser=no"
 
 #今日校园填报
-# from todaySchool import todaySubmit
-# todaySubmit()
+from todaySchool import todaySubmit
+todaySubmit()
 

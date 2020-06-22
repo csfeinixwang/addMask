@@ -7,7 +7,7 @@ from recogQR import decode_qr_code
 def todaySubmit():
     driver=webdriver.Chrome(executable_path='chromedriver.exe')
     driver.maximize_window()
-    url2="http://ehall.hnuahe.edu.cn/new/index.html?browser=no"
+    url2="http://ehall.hnuahe.edu.cn/new/index.html"
     #今日校园填报
     driver.get(url2)
     driver.find_element_by_xpath("/html[@class=' ieundefined']/body/div[@id='ampEhallBody']/article[@id='ampLoginInArticle']/article[@id='ampLoginArticle']/div[@id='ampLoginRoleNav']/div[@id='ampHasNoLogin']").click()

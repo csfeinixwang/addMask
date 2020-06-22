@@ -4,6 +4,7 @@
     <list default="true" id="e0254a85-ab75-490d-9479-b4463ae898e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoSign.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoSign.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todaySchool.py" beforeDir="false" afterPath="$PROJECT_DIR$/todaySchool.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <recent name="C:\Users\mac\PycharmProjects\addMask" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.autoSign (1)">
+  <component name="RunManager" selected="Python.todaySchool">
     <configuration name="TodayCollege" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="addMask" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,9 +186,6 @@
       <module name="addMask" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -205,8 +203,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.autoSign (1)" />
         <item itemvalue="Python.todaySchool" />
+        <item itemvalue="Python.autoSign (1)" />
         <item itemvalue="Python.TodayCollege" />
         <item itemvalue="Python.recogQR" />
         <item itemvalue="Python.readCsv" />
@@ -276,7 +274,12 @@
       <workItem from="1592141515936" duration="1848000" />
       <workItem from="1592179410152" duration="1611000" />
       <workItem from="1592271066703" duration="816000" />
-      <workItem from="1592355021481" duration="2341000" />
+      <workItem from="1592355021481" duration="2985000" />
+      <workItem from="1592489147078" duration="191000" />
+      <workItem from="1592526185080" duration="394000" />
+      <workItem from="1592624850039" duration="103000" />
+      <workItem from="1592716534515" duration="235000" />
+      <workItem from="1592784290235" duration="292000" />
     </task>
     <task id="LOCAL-00001" summary="retry">
       <created>1584405999330</created>
@@ -334,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592271864276</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="retry">
+      <created>1592360881188</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592360881188</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -392,10 +402,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="retry" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="26" key="CommitChangelistDialog2" timestamp="1592271862352">
+    <state x="340" y="26" key="CommitChangelistDialog2" timestamp="1592360879615">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="340" y="26" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1592271862352" />
+    <state x="340" y="26" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1592360879615" />
+    <state x="313" y="166" key="Vcs.Push.Dialog.v2" timestamp="1592360895690">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="313" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1592360895690" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/addMask$add_mask.coverage" NAME="add_mask Coverage Results" MODIFIED="1583649150913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
