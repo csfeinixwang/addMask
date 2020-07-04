@@ -74,7 +74,7 @@
       <recent name="C:\Users\mac\PycharmProjects\addMask" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.todaySchool">
+  <component name="RunManager" selected="Python.autoSign (1)">
     <configuration name="TodayCollege" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="addMask" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +123,9 @@
       <module name="addMask" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -186,6 +189,9 @@
       <module name="addMask" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -203,8 +209,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.todaySchool" />
         <item itemvalue="Python.autoSign (1)" />
+        <item itemvalue="Python.todaySchool" />
         <item itemvalue="Python.TodayCollege" />
         <item itemvalue="Python.recogQR" />
         <item itemvalue="Python.readCsv" />
@@ -279,7 +285,23 @@
       <workItem from="1592526185080" duration="394000" />
       <workItem from="1592624850039" duration="103000" />
       <workItem from="1592716534515" duration="235000" />
-      <workItem from="1592784290235" duration="292000" />
+      <workItem from="1592784290235" duration="337000" />
+      <workItem from="1592866552494" duration="277000" />
+      <workItem from="1593013617447" duration="88000" />
+      <workItem from="1593040408765" duration="254000" />
+      <workItem from="1593040703214" duration="260000" />
+      <workItem from="1593214559606" duration="274000" />
+      <workItem from="1593259025348" duration="124000" />
+      <workItem from="1593298530310" duration="6990000" />
+      <workItem from="1593305701686" duration="1589000" />
+      <workItem from="1593307467964" duration="830000" />
+      <workItem from="1593388092149" duration="5234000" />
+      <workItem from="1593472024132" duration="691000" />
+      <workItem from="1593562858908" duration="764000" />
+      <workItem from="1593641823554" duration="92000" />
+      <workItem from="1593641936636" duration="248000" />
+      <workItem from="1593732597817" duration="985000" />
+      <workItem from="1593793188237" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="retry">
       <created>1584405999330</created>
@@ -344,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592360881188</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="retry">
+      <created>1592784611657</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592784611657</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -402,10 +431,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="retry" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="26" key="CommitChangelistDialog2" timestamp="1592360879615">
+    <state x="340" y="26" key="CommitChangelistDialog2" timestamp="1592784619219">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="340" y="26" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1592360879615" />
+    <state x="340" y="26" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1592784619219" />
+    <state width="1398" height="276" key="GridCell.Tab.0.bottom" timestamp="1593394267939">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1593394267939" />
+    <state width="1398" height="276" key="GridCell.Tab.0.center" timestamp="1593394267939">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1593394267939" />
+    <state width="1398" height="276" key="GridCell.Tab.0.left" timestamp="1593394267939">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1593394267939" />
+    <state width="1398" height="276" key="GridCell.Tab.0.right" timestamp="1593394267939">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1593394267939" />
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom" timestamp="1593394267939">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1593394267939" />
+    <state width="1398" height="276" key="GridCell.Tab.1.center" timestamp="1593394267939">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1593394267939" />
+    <state width="1398" height="276" key="GridCell.Tab.1.left" timestamp="1593394267939">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1593394267939" />
+    <state width="1398" height="276" key="GridCell.Tab.1.right" timestamp="1593394267939">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1593394267939" />
     <state x="313" y="166" key="Vcs.Push.Dialog.v2" timestamp="1592360895690">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -413,5 +474,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/addMask$add_mask.coverage" NAME="add_mask Coverage Results" MODIFIED="1583649150913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/addMask$autoSign__1_.coverage" NAME="autoSign (1) Coverage Results" MODIFIED="1593388546560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

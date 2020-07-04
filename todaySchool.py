@@ -29,4 +29,4 @@ def todaySubmit():
     # driver.find_element_by_css_selector("bh-has-modal-body.bh-modal.bh-pop bh-card bh-card-lv4 bh-dialog-con.bh-dialog-btnContainerBox.bh-has-modal-bodybh-dialog-btn bh-bg-primary bh-color-primary-5").click()
     driver.find_element_by_class_name('bh-dialog-btn').click()
 
-todaySubmit()
+# todaySubmit()
