@@ -124,8 +124,11 @@ for i in range(2):
     driver.find_element_by_xpath('/html/body/div[2]/div[1]/div/div[16]/button').click()
 
 isok=WebDriverWait(driver,5).until(lambda x:x.find_element_by_class_name("fill-tab-new").text)
-
-print(isok)
+str1="提交成功"
+result1= str1 in isok
+if(result1):
+    driver.quit()
+print(result1)
 
 
 

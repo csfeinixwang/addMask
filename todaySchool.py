@@ -28,5 +28,11 @@ def todaySubmit():
     time.sleep(2)
     # driver.find_element_by_css_selector("bh-has-modal-body.bh-modal.bh-pop bh-card bh-card-lv4 bh-dialog-con.bh-dialog-btnContainerBox.bh-has-modal-bodybh-dialog-btn bh-bg-primary bh-color-primary-5").click()
     driver.find_element_by_class_name('bh-dialog-btn').click()
+    driver.find_element_by_xpath("//div[@class='bh-btn bh-btn-primary']").click()
+    text=driver.find_element_by_class_name('content').text
+    isok='今日已填报'
+    if isok in text:
+        print('今日校园填报成功')
+        driver.quit()
 
 # todaySubmit()

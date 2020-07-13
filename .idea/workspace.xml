@@ -64,7 +64,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -123,9 +123,6 @@
       <module name="addMask" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -302,6 +299,17 @@
       <workItem from="1593641936636" duration="248000" />
       <workItem from="1593732597817" duration="985000" />
       <workItem from="1593793188237" duration="57000" />
+      <workItem from="1593902551384" duration="563000" />
+      <workItem from="1593908743909" duration="1413000" />
+      <workItem from="1593991689622" duration="617000" />
+      <workItem from="1594075038690" duration="849000" />
+      <workItem from="1594087223409" duration="6000" />
+      <workItem from="1594162644778" duration="379000" />
+      <workItem from="1594250376981" duration="77000" />
+      <workItem from="1594335447892" duration="239000" />
+      <workItem from="1594427800755" duration="553000" />
+      <workItem from="1594511400336" duration="1806000" />
+      <workItem from="1594596199550" duration="707000" />
     </task>
     <task id="LOCAL-00001" summary="retry">
       <created>1584405999330</created>
@@ -431,10 +439,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="retry" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="26" key="CommitChangelistDialog2" timestamp="1592784619219">
+    <state x="340" y="26" key="CommitChangelistDialog2" timestamp="1593837400183">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="340" y="26" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1592784619219" />
+    <state x="340" y="26" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1593837400183" />
     <state width="1398" height="276" key="GridCell.Tab.0.bottom" timestamp="1593394267939">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -467,10 +475,14 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1398" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1593394267939" />
-    <state x="313" y="166" key="Vcs.Push.Dialog.v2" timestamp="1592360895690">
+    <state x="224" y="75" key="SettingsEditor" timestamp="1593909512515">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="313" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1592360895690" />
+    <state x="224" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1593909512515" />
+    <state x="313" y="166" key="Vcs.Push.Dialog.v2" timestamp="1594682519054">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="313" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1594682519054" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/addMask$add_mask.coverage" NAME="add_mask Coverage Results" MODIFIED="1583649150913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
