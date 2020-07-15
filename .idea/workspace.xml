@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e0254a85-ab75-490d-9479-b4463ae898e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoSign.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoSign.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todaySchool.py" beforeDir="false" afterPath="$PROJECT_DIR$/todaySchool.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -310,6 +309,9 @@
       <workItem from="1594427800755" duration="553000" />
       <workItem from="1594511400336" duration="1806000" />
       <workItem from="1594596199550" duration="707000" />
+      <workItem from="1594682492192" duration="172000" />
+      <workItem from="1594764020025" duration="223000" />
+      <workItem from="1594855269370" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="retry">
       <created>1584405999330</created>
@@ -381,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592784611657</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="retry">
+      <created>1594682605501</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594682605501</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -439,10 +448,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="retry" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="26" key="CommitChangelistDialog2" timestamp="1593837400183">
+    <state x="340" y="26" key="CommitChangelistDialog2" timestamp="1594682603420">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="340" y="26" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1593837400183" />
+    <state x="340" y="26" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1594682603420" />
     <state width="1398" height="276" key="GridCell.Tab.0.bottom" timestamp="1593394267939">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -479,10 +488,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="224" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1593909512515" />
-    <state x="313" y="166" key="Vcs.Push.Dialog.v2" timestamp="1594682519054">
+    <state x="313" y="166" key="Vcs.Push.Dialog.v2" timestamp="1594682629378">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="313" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1594682519054" />
+    <state x="313" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1594682629378" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/addMask$add_mask.coverage" NAME="add_mask Coverage Results" MODIFIED="1583649150913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
